@@ -8,7 +8,6 @@
                     <include name="test"/>
                 </methods>
             </class>
-            <class name="com.tests.HomePage"/>
         </classes>
     </test>
 </suite>
